@@ -1,5 +1,5 @@
 # SFP Access Port
-Software supporting the SFP Access Port hardware
+SFP Access Port - Read, Write, Program, Debug
 
 The SFP Access Port project is an open source effort to create the hardware and associated software capable of reading and writing to the embedded EEPROM found on SFP and SFP+ tranciever modules, as well as other trancievers compliant with the relevant standards.
 
