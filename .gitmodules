@@ -4,3 +4,7 @@
 [submodule "sfp-access-port-firmware"]
 	path = sfp-access-port-firmware
 	url = https://github.com/Cyclomatic-Dev/sfp-access-port-firmware
+[submodule ".\\sfp-access-port-firmware\\"]
+	branch = main
+[submodule ".\\sfp-access-port-hardware\\"]
+	branch = main
